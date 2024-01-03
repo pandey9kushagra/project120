@@ -1,0 +1,47 @@
+body{
+    
+   background-color: rgb(205, 146, 73);
+
+}
+
+
+#main-div{
+
+    background-color: rgb(96, 162, 196);
+    margin-top: 20px;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 20px grey;
+    font-family: 'Times New Roman', Times, serif;
+    width: 90%;
+    height: 350px;
+    text-align: center;
+
+}
+
+.obj{
+
+    background-color: rgb(190, 179, 113);
+    margin-top: 15px;
+    border-radius: 20px;
+    padding: 10px;
+    box-shadow: 10px 10px 20px grey;
+    font-family: 'Times New Roman', Times, serif;
+    width: 80%;
+}
+
+#foot{
+    position: fixed;
+    width: 100%;
+    line-height: 3;
+    font-family: 'Times New Roman', Times, serif;
+    bottom: 0;
+    background-color: rgb(208, 81, 81);
+
+}
+
+img{
+
+    width: 300px;
+    height: 300px;
+}
